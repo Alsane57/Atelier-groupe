@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div-1 h1 {
+    font-size: 45px;
+    font-weight: 700;
+    color: black;
+}
+.div-1 p{
+    color: black;
+}
+.navbar {
+    height: 50PX;
+    color: white;
+}
+.nav-item a:hover{
+    background-color: antiquewhite;
+}
+.nav-item a{
+    padding: 3px;
+}
+.container-fluid a{
+    padding: 3px 5px;
+}
+.container-fluid a:hover{
+    background-color: antiquewhite;
+}
+footer{
+    background-color: gray;
+    margin-top: 50px;
+    color: white;
+}
+.card-body button{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 30%;
+
+}
+.div-6 a{
+    padding: 10px 20px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+
+}
+.div-6 a:hover{
+    background-color: aliceblue;
+    color: black;
+
+}
